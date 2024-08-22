@@ -5,12 +5,15 @@ You Go Through Portals Leading You Into Randomly Selected Rooms To Play
 
 Your Goal: Survive Until The End!
 
+You MUST HAVE Python 3 Or Higher Installed For This Program To Run Properly!
 
 Game In Beta!
 
 Itch.io Page: https://connerisodd.itch.io/portal-python
 
 # Download Instructions
+
+You MUST HAVE Python 3 Or Higher Installed For This Program To Run Properly!
 
 If You Want To Only Play The Game: 
 * Download .exe Version
